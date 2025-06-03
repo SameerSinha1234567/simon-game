@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.btn-container
+{
+    display: flex;
+    justify-content: center;
+}
+.btn
+{
+    height:150px;
+    width:150px;
+    border-radius: 20%;
+    border:10px solid black;
+    margin: 2.5rem;
+}
+.green{
+    background-color: #63aac0;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.red{
+    background-color: #d95980;
+}
+.blue{
+    background-color: #819ff9;
+}
+.btnflash{
+    background-color: white;
+}
+
+
